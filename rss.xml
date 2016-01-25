@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[VioletsJourney]]></title>
+        <description><![CDATA[VioletsJourney]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 20:52:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<h1>Test</h1>]]></description>
+            <link>undefinedtest/index.html</link>
+            <guid isPermaLink="false">544091eb-665d-4525-a0fc-4ced5eb52204</guid>
+            <pubDate>Mon, 25 Jan 2016 20:52:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
