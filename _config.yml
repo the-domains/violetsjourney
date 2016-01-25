@@ -1,0 +1,28 @@
+name: VioletsJourney
+favicon: null
+layout_spectrum: 0.5280709837097675
+typography_spectrum: 0.3654559792485088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9785038861446083
+  lightness: 0.23908068402670324
+  saturation: 0.8849517365451902
+  rhythmicContrast: 0.7348074968904257
+purpose: []
